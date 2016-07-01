@@ -1,0 +1,17 @@
+3
+0 MOVE 6
+1
+AWAY Imitator PARA_1
+1
+NEXT Imitator PARA_1
+1 GRAB 5
+2
+NEXT Imitator PARA_1 
+ON Gripper NULL
+1
+ON Gripper PARA_1
+2 DROP 5
+1
+ON Gripper PARA_1
+1
+ON Gripper NULL

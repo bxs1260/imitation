@@ -1,0 +1,84 @@
+3
+*
+0 3 5
+ObjA GREEN PAPER
+Obstacle RED WOOD
+Trashcan BLACK PLASTIC
+4
+AWAY Demo Obstacle
+AWAY Demo ObjA
+AWAY Demo Trashcan
+ON Gripper NULL
+4
+AWAY Demo Obstacle
+NEXT Demo ObjA
+AWAY Demo Trashcan
+ON Gripper NULL
+3
+AWAY Demo Obstacle
+ON Gripper ObjA
+AWAY Demo Trashcan
+3
+AWAY Demo Obstacle
+ON Gripper ObjA
+NEXT Demo Trashcan
+3
+AWAY Demo Obstacle
+NEXT Demo Trashcan
+ON Gripper NULL
+*
+1 3 3
+Toy BLUE PLASTIC
+ObjA GREEN PLASTIC
+ToyCorner BROWN WOOD
+4
+AWAY Demo Toy
+AWAY Demo ToyCorner
+NEXT Demo ObjA
+ON Gripper NULL
+4
+NEXT Demo Toy
+AWAY Demo ToyCorner
+AWAY Demo ObjA
+ON Gripper NULL
+4
+NEXT Demo Toy
+NEXT Demo ToyCorner
+AWAY Demo ObjA
+ON Gripper NULL
+*
+2 3 7
+Futon1 WHITE COTTON
+Futon2 BLACK LEATHER
+Sofa1 WHITE COTTON
+4
+AWAY Demo Futon1
+NEXT Demo Futon2
+NEXT Demo Sofa1
+ON Gripper NULL
+3
+AWAY Demo Futon1
+NEXT Demo Sofa1
+ON Gripper Futon2
+3
+NEXT Demo Futon1
+AWAY Demo Sofa1
+ON Gripper Futon2
+4
+NEXT Demo Futon1
+NEXT Demo Futon2
+AWAY Demo Sofa1
+ON Gripper NULL
+3
+NEXT Demo Futon2
+AWAY Demo Sofa1
+ON Gripper Futon1
+3
+AWAY Demo Futon2
+NEXT Demo Sofa1
+ON Gripper Futon1
+4
+NEXT Demo Futon1
+AWAY Demo Futon2
+NEXT Demo Sofa1
+ON Gripper NULL

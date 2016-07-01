@@ -1,0 +1,159 @@
+7
+*
+101 3 2
+ObjB YELLOW STONE
+Sofa1 WHITE COTTON
+Obstacle RED WOOD
+4
+AWAY Demo ObjB
+AWAY Demo Sofa1
+AWAY Demo Obstacle
+ON Gripper NULL
+4
+NEXT Demo ObjB
+AWAY Demo Sofa1
+AWAY Demo Obstacle
+ON Gripper NULL
+*
+102 3 2
+ObjB YELLOW STONE
+Sofa1 WHITE COTTON
+Obstacle RED WOOD
+4
+NEXT Demo ObjB
+AWAY Demo Sofa1
+AWAY Demo Obstacle
+ON Gripper NULL
+3
+AWAY Demo Sofa1
+AWAY Demo Obstacle
+ON Gripper ObjB
+*
+103 3 2
+ObjB YELLOW STONE
+Sofa1 WHITE COTTON
+Obstacle RED WOOD
+3
+AWAY Demo Sofa1
+NEXT Demo Obstacle
+ON Gripper ObjB
+4
+NEXT Demo ObjB
+AWAY Demo Sofa1
+NEXT Demo Obstacle
+ON Gripper NULL
+*
+0 3 5
+ObjA GREEN PAPER
+Obstacle RED WOOD
+Trashcan BLACK PLASTIC
+4
+AWAY Demo Obstacle
+AWAY Demo ObjA
+AWAY Demo Trashcan
+ON Gripper NULL
+4
+AWAY Demo Obstacle
+NEXT Demo ObjA
+AWAY Demo Trashcan
+ON Gripper NULL
+3
+AWAY Demo Obstacle
+ON Gripper ObjA
+AWAY Demo Trashcan
+3
+AWAY Demo Obstacle
+ON Gripper ObjA
+NEXT Demo Trashcan
+3
+AWAY Demo Obstacle
+NEXT Demo Trashcan
+ON Gripper NULL
+*
+1 3 3
+Toy BLUE PLASTIC
+ObjA GREEN PLASTIC
+ToyCorner BROWN WOOD
+4
+AWAY Demo Toy
+AWAY Demo ToyCorner
+NEXT Demo ObjA
+ON Gripper NULL
+4
+NEXT Demo Toy
+AWAY Demo ToyCorner
+AWAY Demo ObjA
+ON Gripper NULL
+4
+NEXT Demo Toy
+NEXT Demo ToyCorner
+AWAY Demo ObjA
+ON Gripper NULL
+*
+201 3 5
+Futon1 BLACK LEATHER
+Sofa2 WHITE COTTON
+Sofa1 BLACK LEATHER
+4
+NEXT Demo Sofa2
+AWAY Demo Sofa1
+AWAY Demo Futon1
+ON Gripper NULL
+4
+AWAY Demo Sofa2
+AWAY Demo Sofa1
+NEXT Demo Futon1
+ON Gripper NULL
+3
+AWAY Demo Sofa2
+AWAY Demo Sofa1
+ON Gripper Futon1
+3
+AWAY Demo Sofa2
+NEXT Demo Sofa1
+ON Gripper Futon1
+4
+AWAY Demo Sofa2
+NEXT Demo Sofa1
+NEXT Demo Futon1
+ON Gripper NULL
+*
+301 3 9
+ObjA GREEN PAPER
+ObjB GREEN GLASS
+Trashcan BLACK PLASTIC
+4
+AWAY Demo ObjA
+AWAY Demo ObjB
+AWAY Demo Trashcan
+ON Gripper NULL
+4
+NEXT Demo ObjA
+AWAY Demo ObjB
+AWAY Demo Trashcan
+ON Gripper NULL
+3
+ON Gripper ObjA
+AWAY Demo ObjB
+AWAY Demo Trashcan
+3
+ON Gripper ObjA
+AWAY Demo ObjB
+NEXT Demo Trashcan
+3
+AWAY Demo ObjB
+NEXT Demo Trashcan
+ON Gripper NULL
+3
+NEXT Demo ObjB
+AWAY Demo Trashcan
+ON Gripper NULL
+2
+AWAY Demo Trashcan
+ON Gripper ObjB
+2
+NEXT Demo Trashcan
+ON Gripper ObjB
+2
+NEXT Demo Trashcan
+ON Gripper NULL
