@@ -10,7 +10,7 @@ using namespace std;
 
 class Action
 {
-	void Action::parameterize(State& state, string p1, string p2);
+	void parameterize(State& state, string p1, string p2);
 
 	vector<string> paras;	// parameter for execution
 

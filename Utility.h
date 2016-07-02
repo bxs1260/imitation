@@ -4,6 +4,7 @@
 #include <sstream>
 #include <vector>
 #include <functional>
+#include <cstdlib>
 
 using namespace std;
 

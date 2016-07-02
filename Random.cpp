@@ -1,3 +1,4 @@
+#include <cstdlib>
 #include "Random.h"
 
 Random::Random(void)
